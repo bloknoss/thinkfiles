@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/alvaro/.config/wpg/wallpapers/1343746.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0a0a",
+        "foreground": "#f3e8c6",
+        "cursor": "#f3e8c6"
+    },
+    "colors": {
+        "color0": "#0b0a0a",
+        "color1": "#CD7424",
+        "color2": "#9C7156",
+        "color3": "#DF9728",
+        "color4": "#D8A360",
+        "color5": "#D9B062",
+        "color6": "#D4AE88",
+        "color7": "#f3e8c6",
+        "color8": "#aaa28a",
+        "color9": "#CD7424",
+        "color10": "#9C7156",
+        "color11": "#DF9728",
+        "color12": "#D8A360",
+        "color13": "#D9B062",
+        "color14": "#D4AE88",
+        "color15": "#f3e8c6"
+    }
+}
