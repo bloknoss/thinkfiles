@@ -29,7 +29,7 @@ sudo pacman -S $(pacman -Ssq noto-fonts)
 
 ### Others
 ```bash
-yay -S python3 sddm-git kitty grimblast hyprpicker nwg-look vesktop-bin nemo wlogout mpv wl-clipboard firefox nemo pavucontrol swww-git python-pywalfox pywal-git wpgtk rofi-git
+yay -S python3 python2 sddm-git kitty grimblast hyprpicker nwg-look vesktop-bin nemo wlogout mpv wl-clipboard firefox nemo pavucontrol swww-git python-pywalfox pywal-git wpgtk rofi-git
 ```
 
 > You need the FlatColor theme for wpgtk and pywal to work properly when syncing color schemes.
